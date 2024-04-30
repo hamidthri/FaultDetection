@@ -17,4 +17,4 @@ To run this code, you need to ensure the following:
 
 - **Run the Code**: You can run this code in any Python environment. Just execute it using a Python interpreter or in a Python script.
 
-After running the code, you should have a file named `data_all.npy` containing the processed data. You can then proceed with further analysis or tasks using this data.
+After running the code, you should have a file named `data_all.npy` containing the processed data. You can then proceed with further analysis or tasks using this data. After running the code, you should have a file named `data_all.npy` containing the processed data. To train each model, you just need to run the related file.
